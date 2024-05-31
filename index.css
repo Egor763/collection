@@ -1,0 +1,9 @@
+@import url('./fonts/open-sans.css');
+@import url('./blocks/page.css');
+
+@import url('./blocks/header.css');
+@import url('./blocks/collection.css');
+@import url('./blocks/plants.css');
+@import url('./blocks/description.css');
+@import url('./blocks/information.css');
+@import url('./blocks/footer.css');

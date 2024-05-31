@@ -1,0 +1,46 @@
+.header {
+  max-width: 1440px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__logo {
+  width: 65px;
+  height: 20px;
+  margin-right: 125px;
+}
+
+.header__links {
+  width: 512px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__item {
+  width: 120px;
+}
+
+.header__link {
+  text-decoration: none;
+  color: white;
+  line-height: 24px;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.header__container {
+  width: 112px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__container-item {
+  width: 24px;
+  height: 24px;
+}
+
+.header__icon {
+  width: 24px;
+  height: 24px;
+}
