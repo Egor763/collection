@@ -1,0 +1,48 @@
+@media screen and (max-width: 700px) {
+  .collection {
+    width: 320px;
+    max-height: 490px;
+  }
+
+  .collection__image {
+    min-height: 490px;
+  }
+
+  .collection__title {
+    width: 256px;
+    line-height: 60px;
+    font-size: 40px;
+    font-weight: 700;
+    align-self: flex-start;
+    margin-left: 32px;
+    margin-top: 30px;
+  }
+
+  .collection__text {
+    width: 635px;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 400;
+    align-self: flex-start;
+    margin: 16px 0 24px 100px;
+    display: none;
+  }
+
+  .collection__link {
+    width: 160px;
+    display: flex;
+    align-items: center;
+    line-height: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    align-self: flex-start;
+    margin-left: 32px;
+    margin-top: 30px;
+    color: green;
+  }
+
+  .collection__arrow {
+    width: 43px;
+    margin-left: 8px;
+  }
+}
