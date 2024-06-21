@@ -3,10 +3,16 @@
 
 @import url('./blocks/header/header.css');
 @import url('./blocks/header/header-adapt.css');
+
 @import url('./blocks/collection/collection.css');
 @import url('./blocks/collection/collection-adapt.css');
+
 @import url('./blocks/plants/plants.css');
 @import url('./blocks/plants/plants-adapt.css');
-@import url('./blocks/description.css');
-@import url('./blocks/information.css');
+
+@import url('./blocks/description/description.css');
+@import url('./blocks/description/descripton-adapt.css');
+
+@import url('./blocks/information/information.css');
+@import url('./blocks/information/information-adapt.css');
 @import url('./blocks/footer.css');

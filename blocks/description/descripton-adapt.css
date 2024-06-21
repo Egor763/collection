@@ -1,0 +1,17 @@
+@media screen and (max-width: 700px) {
+  .description {
+    width: 255px;
+  }
+
+  .description__container {
+    width: 255px;
+    flex-direction: column;
+  }
+
+  .description__image {
+    width: 255px;
+    object-fit: cover;
+    object-position: 3px;
+    margin: 30px 0 30px;
+  }
+}
