@@ -15,4 +15,6 @@
 
 @import url('./blocks/information/information.css');
 @import url('./blocks/information/information-adapt.css');
-@import url('./blocks/footer.css');
+
+@import url('./blocks/footer/footer.css');
+@import url('./blocks/footer/footer-adapt.css');
