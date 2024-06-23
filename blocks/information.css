@@ -12,7 +12,7 @@
   width: 100%;
   min-height: 463px;
   height: 100%;
-  background-image: url('../../images/flower.png');
+  background-image: url('../images/flower.png');
   opacity: 0.8;
   display: flex;
   flex-direction: column;

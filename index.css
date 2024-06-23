@@ -13,8 +13,5 @@
 @import url('./blocks/description/description.css');
 @import url('./blocks/description/descripton-adapt.css');
 
-@import url('./blocks/information/information.css');
-@import url('./blocks/information/information-adapt.css');
-
-@import url('./blocks/footer/footer.css');
-@import url('./blocks/footer/footer-adapt.css');
+@import url('./blocks/information.css');
+@import url('./blocks/footer.css');
